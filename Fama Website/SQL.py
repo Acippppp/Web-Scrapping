@@ -79,11 +79,11 @@ print(df)
 
 
 dbhasif = mysql.connector.connect(
-    host='172.20.100.120',
-    user='dbhasif',
-    password='dbhasif#@!',
-    port='3007',
-    database='FAMA'
+    host='*****',
+    user='******',
+    password='*****',
+    port='****',
+    database='SCHEMA_NAME'
 
 )
 print(dbhasif)
